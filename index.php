@@ -45,11 +45,6 @@
         <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
         <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
         <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
     </div>
 
     <div class="container my-5">
@@ -81,25 +76,15 @@
             <table class="table">
                 <thead class="thead-dark">
                     <tr>
+                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Countries</th>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Confirmed</th>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Recovered</th>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Deceased</th>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                       <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                     </tr>
                 </thead>
                 <tbody>
