@@ -39,14 +39,16 @@
     <div class="container-fluid bg-light p-5 text-center my-3">
         <h1 class="">Covid-19 Tracker</h1>
         <h5 class="text-muted">An opensource project to keep track of all the COVID-19 cases around the world.</h5>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
     </div>
 
     <div class="container my-5">
@@ -79,16 +81,24 @@
                 <thead class="thead-dark">
                     <tr>
                         <th scope="col">Countries</th>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Confirmed</th>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Recovered</th>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                         <th scope="col">Deceased</th>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
-                        <iframe data-aa='1881974' src='//ad.a-ads.com/1881974?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
+                        <iframe data-aa='1881983' src='//ad.a-ads.com/1881983?size=120x60' style='width:120px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
                     </tr>
                 </thead>
                 <tbody>
